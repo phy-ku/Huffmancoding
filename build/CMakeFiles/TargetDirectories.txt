@@ -1,0 +1,3 @@
+/Users/ten/Desktop/coding/Huffman coding/build/CMakeFiles/huffcoding.dir
+/Users/ten/Desktop/coding/Huffman coding/build/CMakeFiles/edit_cache.dir
+/Users/ten/Desktop/coding/Huffman coding/build/CMakeFiles/rebuild_cache.dir
