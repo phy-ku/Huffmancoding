@@ -10,6 +10,6 @@ int main()
     string comprs=b.encoding(words);
     string shape="",letters="";
     b.exshape(shape,letters);
-    cout<<shape<<letters<<comprs;
+    cout<<comprs;
     return 0;
 }
